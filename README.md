@@ -11,13 +11,13 @@ About This Course:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/burakorkmez/python-chat.git
+git clone https://github.com/Daniyal0100101/Web-Chat-App.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd python-chat
+cd Web-Chat-App
 ```
 
 3. Create a virtual environment:
