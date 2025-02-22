@@ -1,5 +1,5 @@
 
-About This Course:
+About This project:
 
 -   🚀 Python virtual environment setup
 -   💬 Socket.io and Flask integration
