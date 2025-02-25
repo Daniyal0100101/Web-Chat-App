@@ -1,10 +1,14 @@
+# Web Chat App
 
-About This project:
+A real-time web chat application using Flask and Socket.io.
 
--   🚀 Python virtual environment setup
--   💬 Socket.io and Flask integration
--   ✨ JavaScript on the frontend
--   ✅ Deployment at the end
+## Features
+
+- Real-time messaging with Socket.io and Flask
+- JavaScript frontend for a dynamic user experience
+- Easy setup and deployment
+
+## Getting Started
 
 ### Run the App Locally
 
